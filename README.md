@@ -1,4 +1,5 @@
-## Olá, Eu sou o Eduardo Azevedo - Trabalho como analista de Testes 👋  Segue alguns exemplos dos meus projetos😁
+## Olá, Eu sou o Eduardo Azevedo - Trabalho como analista de Testes 👋
+### Segue alguns exemplos dos meus projetos de estudo 😁
 
 <!--
 **eduba01/eduba01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
