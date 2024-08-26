@@ -1,4 +1,4 @@
-## Olá, Eu sou o Eduardo Azevedo - Trabalho como analista de Testes 👋
+## Olá, Eu sou o Eduardo Azevedo e trabalho como analista de Testes 👋
 ### Segue alguns exemplos dos meus projetos de estudo 😁
 
 <!--
